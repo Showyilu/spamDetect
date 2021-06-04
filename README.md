@@ -5,7 +5,7 @@ Join our public [Slack](https://slack.fleek.co/), visit our [GitHub](https://git
 ## Getting started
 
 ### Prerequisites
-- python >= 3.7.4
+- python >= 3.7.5
 - pip >= 20.1.1
 
 ### Commands
